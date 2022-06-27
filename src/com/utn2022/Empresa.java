@@ -34,7 +34,7 @@ public class Empresa {
 
     public void aumento(List<Productos> lista) {
 
-        System.out.println("\n\n******************NUEVOS AUMENTO APLICADOS*************************"+
+        System.out.println("\n\n******************NUEVOS AUMENTOS APLICADOS*************************"+
                 "\n●Sillas = 5%" +
                 "\n● Escritorios = 10%" +
                 "\n● Impresoras = 15%" +
